@@ -1,0 +1,7 @@
+﻿  Misc.cpp
+  main.cpp
+  Bar.cpp
+C:\Users\shaun\source\repos\SoftwareEngineering minorProject\SoftwareEngineering minorProject\Bar.cpp(6,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  User.cpp
+  Generating Code...
+  SoftwareEngineering minorProject.vcxproj -> C:\Users\shaun\source\repos\SoftwareEngineering minorProject\x64\Debug\SoftwareEngineering minorProject.exe
